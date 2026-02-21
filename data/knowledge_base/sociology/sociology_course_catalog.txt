@@ -1,0 +1,539 @@
+﻿UIUC SOCIOLOGY COURSE CATALOG
+==============================
+Source: Official UIUC Course Catalog
+Last Updated: Based on provided SOC.pdf
+Note: Course availability varies by semester. Always check https://courses.illinois.edu for current offerings.
+
+================================================================================
+UNDERGRADUATE COURSES (SOC 100-499)
+================================================================================
+
+SOC 100 — Introduction to Sociology
+-----------------------------------
+Credit: 4 Hours.
+Description: [IAI Code: S7900] Sociology offers a unique lens through which we can examine the world around us. In this course you will develop a perspective that will allow you to analyze the social world in a way that reveals the hidden and/or overlooked social forces that shape our lives. This approach, the sociological imagination, will enable you to explore how social forces influence the ways we view and navigate our social world. We will discuss how sociologists use theory and research to better understand important social issues such as inequalities of race, class, gender, sexualities and how social order and social change are possible. We will discuss how society affects individuals and in turn how individuals can affect society.
+Gen Ed: Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/100/
+
+SOC 101 — Sociology of Gender
+------------------------------
+Credit: 3 Hours.
+Description: An exploration of current questions of gender and their applications to students today. The course will focus primarily on the United States emphasizing individual, interactional, and institutional aspects of the social world. Topics for study include sociological research on femininities, masculinities, gendered bodies, socialization, work, family, politics, sport, and sexualities.
+Gen Ed: Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/101/
+
+SOC 130 — Intro Gender & Women's Studies
+-----------------------------------------
+Credit: 3 Hours.
+Description: Same as GWS 100. See GWS 100.
+Gen Ed: Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/130/
+
+SOC 160 — Global Ineq and Social Change
+----------------------------------------
+Credit: 3 Hours.
+Description: Introduces sociological concepts of poverty, inequality, and social change within a global context. Themes explored include basic food security, poverty and hunger; population and resource distribution; foreign aid and development institutions; and social policies and movements for change. Course approach is historical and transnational, and typically includes case studies from Africa, Asia, Latin America, and the United States.
+Gen Ed: Cultural Studies - Non-West, Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/160/
+
+SOC 161 — Introduction to Poverty
+----------------------------------
+Credit: 3 Hours.
+Description: Introduction to sociological research about the views, experiences, causes, and consequences of poverty in both advanced and developing countries. The purpose of the course is to set the facts straight about who experiences poverty, why poverty remains pervasive, and what is being done, at home and abroad, to alleviate poverty.
+Gen Ed: Social & Beh Sci - Soc Sci, Cultural Studies - Western
+Link: https://courses.illinois.edu/schedule/terms/SOC/161/
+
+SOC 163 — Social Problems
+--------------------------
+Credit: 3 Hours.
+Description: A study of social problems in the United States necessarily entails a discussion of global issues. To that end, this course will examine many contemporary social issues such as crime, war and terrorism, the environment, inequality, poverty, discrimination, the economic recession, and others, through a global framework. Many of the topics we will cover could motivate an entire semester's study in their own right; indeed, some scholars devote their entire careers to but one of these topics. However, this breadth allows us to think broadly about the issues that are identified as social problems and the ways in which individuals and groups attempt to resolve those problems; both processes are revealing about the time and society in which we live. One of the main objectives of this class is to learn about how sociologists examine social problems through analysis and research. Alongside that process, you will improve your critical thinking skills and become a better/more informed consumer of information.
+Link: https://courses.illinois.edu/schedule/terms/SOC/163/
+
+SOC 180 — Stress and Health in African American Communities
+------------------------------------------------------------
+Credit: 3 Hours.
+Description: Using an interdisciplinary approach, students will explore the environmental and social determinants of health/wellbeing (ex. community violence), and their affects, within African American communities. Students will use the concepts of resistance and resiliency to explore factors that protect African Americans from the negative consequences of stress.
+Gen Ed: Social & Beh Sci - Soc Sci, Cultural Studies - US Minority
+Link: https://courses.illinois.edu/schedule/terms/SOC/180/
+
+SOC 196 — Issues in Sociology
+------------------------------
+Credit: 3 Hours.
+Description: [IAI Code: S7901] Origin of problems; consequences of ameliorative strategies. Typical topics include crime, mental illness, drug use, suicide, sexual behavior, violence, and intergroup conflict. May be repeated as topics vary.
+Link: https://courses.illinois.edu/schedule/terms/SOC/196/
+
+SOC 199 — Undergraduate Open Seminar
+-------------------------------------
+Credit: 1 to 5 Hours.
+Description: Approved for both letter and S/U grading. May be repeated.
+Link: https://courses.illinois.edu/schedule/terms/SOC/199/
+
+SOC 200 — Introduction to Sociological Theory
+----------------------------------------------
+Credit: 3 Hours.
+Description: This course is an introduction to the foundations of sociological theory. Topics may include the problem of social order and the nature of social conflict; capitalism and bureaucracy; the relationship between social structure and politics; and the evolution of modern societies.
+Prerequisite: Sophomore standing.
+Link: https://courses.illinois.edu/schedule/terms/SOC/200/
+
+SOC 201 — Race, Gender & Power
+-------------------------------
+Credit: 3 Hours.
+Description: Same as GWS 201. See GWS 201.
+Gen Ed: Cultural Studies - Western
+Link: https://courses.illinois.edu/schedule/terms/SOC/201/
+
+SOC 202 — Sexualities
+----------------------
+Credit: 3 Hours.
+Description: Same as GWS 202. See GWS 202.
+Gen Ed: Cultural Studies - Western
+Link: https://courses.illinois.edu/schedule/terms/SOC/202/
+
+SOC 221 — Latina/o Migration
+-----------------------------
+Credit: 3 Hours.
+Description: Same as LLS 220. See LLS 220.
+Gen Ed: Social & Beh Sci - Soc Sci, Cultural Studies - US Minority
+Link: https://courses.illinois.edu/schedule/terms/SOC/221/
+
+SOC 222 — Introduction to Modern Africa
+----------------------------------------
+Credit: 3 Hours.
+Description: Same as AFST 222, ANTH 222, and PS 242. See AFST 222.
+Gen Ed: Cultural Studies - Non-West
+Link: https://courses.illinois.edu/schedule/terms/SOC/222/
+
+SOC 223 — Black Women Contemp US Society
+-----------------------------------------
+Credit: 3 Hours.
+Description: Same as AFRO 226 and GWS 226. See AFRO 226.
+Link: https://courses.illinois.edu/schedule/terms/SOC/223/
+
+SOC 225 — Race and Ethnicity
+-----------------------------
+Credit: 3 Hours.
+Description: [IAI Code: S7903D] Sociological and social-psychological analysis of minority groups; illustrative material drawn from representative racial, ethnic, and status groups.
+Prerequisite: SOC 100, SOC 101, OR SOC 163.
+Gen Ed: Social & Beh Sci - Soc Sci, Cultural Studies - US Minority
+Link: https://courses.illinois.edu/schedule/terms/SOC/225/
+
+SOC 226 — Political Sociology
+------------------------------
+Credit: 3 Hours.
+Description: This course provides an introduction to the study of political sociology, which, broadly conceived, is concerned with the social bases of power and the social consequences of the organization of power. If politics is, as famously suggested by Howard Lasswell, "who gets what, when, how," then our primary aim is to explain the emergence, reproduction, and transformation of different forms of political ordering.
+Link: https://courses.illinois.edu/schedule/terms/SOC/226/
+
+SOC 230 — The Sociology of Political Polarization: Bigots and Snowflakes
+-------------------------------------------------------------------------
+Credit: 3 Hours.
+Description: Communicating across ideological and political divides has become increasingly difficult and conversations that touch sensitive topics (like race, gender, or immigration) often lead nowhere. This is, in part, due to a collective tendency to oversimplify problems that are anything but simple. In this class, we examine the prevalence, nature, and sources of these communication breakdowns.
+Link: https://courses.illinois.edu/schedule/terms/SOC/230/
+
+SOC 255 — Queer Lives, Queer Politics
+--------------------------------------
+Credit: 3 Hours.
+Description: Same as GWS 255. See GWS 255.
+Link: https://courses.illinois.edu/schedule/terms/SOC/255/
+
+SOC 265 — Central Asian Societies
+----------------------------------
+Credit: 3 Hours.
+Description: Through the theoretical lens of Sociology, this course examines issues of ethnicity, religion, health, gender, demography and social stability within the nations of Central Asia. Same as REES 265 and SAME 265.
+Gen Ed: Cultural Studies - Non-West, Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/265/
+
+SOC 270 — Global Demography
+----------------------------
+Credit: 3 Hours.
+Description: Critically examines the meaning and measurement of demographic change across time, levels of socio-economic development, national boundaries, and socio-cultural groups.
+Gen Ed: Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/270/
+
+SOC 273 — Social Perspectives on the Family
+--------------------------------------------
+Credit: 3 Hours.
+Description: [IAI Code: S7902] Examines the societal forces shaping aspects of stable and changing family relations in the U. S. and other countries.
+Prerequisite: One of the following: SOC 100, SOC 101, or SOC 163.
+Link: https://courses.illinois.edu/schedule/terms/SOC/273/
+
+SOC 274 — Health, Illness and Society
+--------------------------------------
+Credit: 3 Hours.
+Description: Introduces students to medical sociology and examines issues surrounding health, illness and healing from a sociological perspective.
+Link: https://courses.illinois.edu/schedule/terms/SOC/274/
+
+SOC 275 — Criminology
+----------------------
+Credit: 3 Hours.
+Description: Nature and extent of crime; past and present theories of crime causation; criminal behavior in the United States and abroad.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163 or equivalent.
+Link: https://courses.illinois.edu/schedule/terms/SOC/275/
+
+SOC 278 — Mapping Latina/o Inequalities
+----------------------------------------
+Credit: 3 Hours.
+Description: Same as LLS 278. See LLS 278.
+Link: https://courses.illinois.edu/schedule/terms/SOC/278/
+
+SOC 280 — Intro to Social Statistics
+-------------------------------------
+Credit: 4 Hours.
+Description: [IAI Code: M1902] An introduction to statistical methods. Same as GGIS 280.
+Note: Credit is not given toward graduation for SOC 280 if credit for a college level introductory statistics course has been earned.
+Gen Ed: Quantitative Reasoning I
+Link: https://courses.illinois.edu/schedule/terms/SOC/280/
+
+SOC 310 — Sociology of Deviance
+--------------------------------
+Credit: 3 Hours.
+Description: Study of traits, conditions, actions, and behaviors that violate social norms and elicit negative societal reactions.
+Prerequisite: One of the following: SOC 100, SOC 101, or SOC 163.
+Link: https://courses.illinois.edu/schedule/terms/SOC/310/
+
+SOC 320 — Queer Theory
+-----------------------
+Credit: 3 Hours.
+Description: Same as GWS 370. See GWS 370.
+Link: https://courses.illinois.edu/schedule/terms/SOC/320/
+
+SOC 321 — Gender & Latina/o Migration
+--------------------------------------
+Credit: 3 Hours.
+Description: Same as LLS 320 and GWS 320. See LLS 320.
+Link: https://courses.illinois.edu/schedule/terms/SOC/321/
+
+SOC 322 — Gender, Relationships & Society
+------------------------------------------
+Credit: 3 Hours.
+Description: Same as GWS 340 and HDFS 340. See HDFS 340.
+Link: https://courses.illinois.edu/schedule/terms/SOC/322/
+
+SOC 324 — Social Network Analysis
+----------------------------------
+Credit: 3 Hours.
+Description: Same as IS 324. See IS 324.
+Link: https://courses.illinois.edu/schedule/terms/SOC/324/
+
+SOC 325 — Black Men and Masculinities
+--------------------------------------
+Credit: 3 Hours.
+Description: Same as AFRO 342. See AFRO 342.
+Link: https://courses.illinois.edu/schedule/terms/SOC/325/
+
+SOC 345 — Digital & Gender Cultures
+------------------------------------
+Credit: 3 Hours.
+Description: Same as GWS 345, INFO 345, and MACS 345. See MACS 345.
+Link: https://courses.illinois.edu/schedule/terms/SOC/345/
+
+SOC 350 — Technology and Society
+---------------------------------
+Credit: 3 Hours.
+Description: Examines the social and cultural origins of modern technology and technological innovation.
+Gen Ed: Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/350/
+
+SOC 355 — Race and Mixed Race
+------------------------------
+Credit: 3 Hours.
+Description: Same as AAS 355 and LLS 355. See LLS 355.
+Link: https://courses.illinois.edu/schedule/terms/SOC/355/
+
+SOC 364 — Impacts of Globalization
+-----------------------------------
+Credit: 3 Hours.
+Description: Examines the impacts of globalization including the flow of trade, people, and capital around the world.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163, or consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/364/
+
+SOC 373 — Social Inequality
+----------------------------
+Credit: 3 Hours.
+Description: Examines how power, privilege, and prestige are distributed across individuals and groups, with focus on race, class, and gender.
+Prerequisite: One of the following: SOC 100, SOC 101, or SOC 163.
+Gen Ed: Social & Beh Sci - Soc Sci
+Link: https://courses.illinois.edu/schedule/terms/SOC/373/
+
+SOC 375 — Criminal Justice System
+----------------------------------
+Credit: 3 Hours.
+Description: Exploration of the actors, institutions, and processes that make up the criminal justice system.
+Prerequisite: SOC 275 is recommended.
+Link: https://courses.illinois.edu/schedule/terms/SOC/375/
+
+SOC 380 — Social Research Methods
+----------------------------------
+Credit: 4 Hours.
+Description: Introduction to the foundations of social research and to the major types of research methods employed in sociology.
+Prerequisite: SOC 280 and one of the following: SOC 100, SOC 101, or SOC 163.
+Gen Ed: Quantitative Reasoning II
+Link: https://courses.illinois.edu/schedule/terms/SOC/380/
+
+SOC 387 — Race, Gender and the Body
+------------------------------------
+Credit: 3 Hours.
+Description: Same as LLS 387. See LLS 387.
+Link: https://courses.illinois.edu/schedule/terms/SOC/387/
+
+SOC 390 — Individual Study
+---------------------------
+Credit: 1 to 6 Hours.
+Description: Individual study or research project. May be repeated.
+Prerequisite: Six hours of sociology; written consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/390/
+
+SOC 392 — Chicanas&Latinas: Self&Society
+-----------------------------------------
+Credit: 3 Hours.
+Description: Same as GWS 392 and LLS 392. See LLS 392.
+Gen Ed: Advanced Composition
+Link: https://courses.illinois.edu/schedule/terms/SOC/392/
+
+SOC 396 — Topics in Sociology
+------------------------------
+Credit: 3 Hours.
+Description: Explores topics not covered in regularly scheduled Sociology courses.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163, or consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/396/
+
+SOC 400 — Internships
+----------------------
+Credit: 0 to 3 Hours.
+Description: Selected internship opportunities in which student and faculty member develop a program of study and research related to internship.
+Prerequisite: SOC 100 or SOC 101 or SOC 163; SOC 200 plus 3 additional hours in SOC coursework. Department approval required.
+Restricted to: Sophomore, Junior or Senior Sociology majors.
+Link: https://courses.illinois.edu/schedule/terms/SOC/400/
+
+SOC 447 — Environmental Sociology
+----------------------------------
+Credit: 3 or 4 Hours.
+Description: Examination of historical and modern consequences of environmental alteration and pollution. Same as ENVS 447.
+Prerequisite: SOC 380 or equivalent.
+Link: https://courses.illinois.edu/schedule/terms/SOC/447/
+
+SOC 450 — Senior Capstone Seminar
+----------------------------------
+Credit: 3 Hours.
+Description: Students conceive and execute an original sociological research project.
+Prerequisite: One of the following: SOC 100, SOC 101 or SOC 163; and SOC 380.
+Restricted to: Sociology majors only.
+Link: https://courses.illinois.edu/schedule/terms/SOC/450/
+
+SOC 451 — Climate & Social Vulnerability
+----------------------------------------
+Credit: 3 or 4 Hours.
+Description: Same as ATMS 446 and GGIS 496. See GGIS 496.
+Link: https://courses.illinois.edu/schedule/terms/SOC/451/
+
+SOC 470 — Social Movements
+---------------------------
+Credit: 2 to 4 Hours.
+Description: Origins and development of groups in promoting and resisting change.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163, or six hours of anthropology, social geography, political science, or sociology.
+Link: https://courses.illinois.edu/schedule/terms/SOC/470/
+
+SOC 472 — Urban Communities & Public Pol
+-----------------------------------------
+Credit: 3 or 4 Hours.
+Description: Same as AFRO 481 and UP 481. See AFRO 481.
+Link: https://courses.illinois.edu/schedule/terms/SOC/472/
+
+SOC 473 — Immigration, Health & Society
+----------------------------------------
+Credit: 3 or 4 Hours.
+Description: Same as LLS 473, and SOCW 473. See LLS 473.
+Link: https://courses.illinois.edu/schedule/terms/SOC/473/
+
+SOC 478 — Geography of Health Care
+-----------------------------------
+Credit: 3 or 4 Hours.
+Description: Same as GGIS 438. See GGIS 438.
+Link: https://courses.illinois.edu/schedule/terms/SOC/478/
+
+SOC 479 — Law and Society
+--------------------------
+Credit: 3 or 4 Hours.
+Description: Examination of the social and political organization of the legal system.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163, or six hours of anthropology, social geography, political science, or sociology.
+Link: https://courses.illinois.edu/schedule/terms/SOC/479/
+
+SOC 480 — Methods of Field Research
+------------------------------------
+Credit: 2 to 4 Hours.
+Description: Instruction and supervised practice in methods of field research.
+Prerequisite: SOC 380 or consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/480/
+
+SOC 483 — Middle Eastern Societies & Cultures
+----------------------------------------------
+Credit: 3 or 4 Hours.
+Description: Overview of the contemporary Middle East from social, political, and cultural perspectives.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163, or six hours of Anthropology, Social Geography, Politics, or Sociology.
+Link: https://courses.illinois.edu/schedule/terms/SOC/483/
+
+SOC 490 — Advanced Independent Study
+-------------------------------------
+Credit: 3 Hours.
+Description: 3 undergraduate hours. No graduate credit. May be repeated.
+Prerequisite: Seniors in sociology major with 3.25+ GPA; written consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/490/
+
+SOC 495 — Senior Honors Seminar
+--------------------------------
+Credit: 3 Hours.
+Description: Intensive scrutiny of current literature on one selected topic.
+Prerequisite: Sociology majors with 3.5+ GPA in sociology courses and consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/495/
+
+SOC 496 — Advanced Topics in Sociology
+---------------------------------------
+Credit: 3 Hours.
+Description: Explores topics not covered in regularly scheduled Sociology courses.
+Prerequisite: One of the following: SOC 100, SOC 101, SOC 163, or consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/496/
+
+================================================================================
+GRADUATE COURSES (SOC 500-599)
+================================================================================
+
+SOC 500 — Classical Sociological Theory
+----------------------------------------
+Credit: 4 Hours.
+Description: Analysis of major classical sociological theorists. Primary emphasis on Marx, Durkheim, and Weber.
+Prerequisite: SOC 200 or equivalent.
+Link: https://courses.illinois.edu/schedule/terms/SOC/500/
+
+SOC 501 — Contemp Sociological Theory
+--------------------------------------
+Credit: 4 Hours.
+Description: Major theorists and schools of thought since World War I.
+Prerequisite: SOC 500 or equivalent.
+Link: https://courses.illinois.edu/schedule/terms/SOC/501/
+
+SOC 510 — Professionalization Seminar
+--------------------------------------
+Credit: 2 Hours.
+Description: Introduction to the graduate program in Sociology.
+Prerequisite: Graduate standing in Sociology.
+Link: https://courses.illinois.edu/schedule/terms/SOC/510/
+
+SOC 561 — Development Theories
+-------------------------------
+Credit: 4 Hours.
+Description: Discussion of major trends in development thinking and policy.
+Link: https://courses.illinois.edu/schedule/terms/SOC/561/
+
+SOC 563 — Global Social Movements
+----------------------------------
+Credit: 4 Hours.
+Description: Examines why people rebel, why some succeed and others fail, and how collective actions change societies.
+Link: https://courses.illinois.edu/schedule/terms/SOC/563/
+
+SOC 564 — Global Religion and Politics
+---------------------------------------
+Credit: 4 Hours.
+Description: Explores the rise of religion in the public sphere and implications for politics. Same as REL 564 and SAME 564.
+Link: https://courses.illinois.edu/schedule/terms/SOC/564/
+
+SOC 565 — Megacities of Global South
+-------------------------------------
+Credit: 4 Hours.
+Description: Exploration of the dynamics of urban life in the megacities of the Global South.
+Prerequisite: Consent of instructor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/565/
+
+SOC 572 — Community In American Society
+----------------------------------------
+Credit: 4 Hours.
+Description: Same as HDFS 533, RST 582, and UP 533. See HDFS 533.
+Link: https://courses.illinois.edu/schedule/terms/SOC/572/
+
+SOC 575 — Founds of Organizational Behav
+-----------------------------------------
+Credit: 4 Hours.
+Description: Same as BADM 510, PS 514, and PSYC 553. See BADM 510.
+Link: https://courses.illinois.edu/schedule/terms/SOC/575/
+
+SOC 576 — Survey Methods in Mkt Res
+------------------------------------
+Credit: 4 Hours.
+Description: Same as BADM 531. See BADM 531.
+Link: https://courses.illinois.edu/schedule/terms/SOC/576/
+
+SOC 578 — Ethnography Urban Communities
+----------------------------------------
+Credit: 4 Hours.
+Description: Same as AFRO 552, HDFS 543, and UP 578. See AFRO 552.
+Link: https://courses.illinois.edu/schedule/terms/SOC/578/
+
+SOC 579 — Categorical Data Analysis in Educational Psychology
+--------------------------------------------------------------
+Credit: 4 Hours.
+Description: Same as EPSY 589 and PSYC 589. See EPSY 589.
+Link: https://courses.illinois.edu/schedule/terms/SOC/579/
+
+SOC 583 — Qualitative Research Methods
+---------------------------------------
+Credit: 4 Hours.
+Description: Introduction to field and qualitative methods in social science research.
+Link: https://courses.illinois.edu/schedule/terms/SOC/583/
+
+SOC 584 — Multivar Anlys in Psych and Ed
+-----------------------------------------
+Credit: 4 Hours.
+Description: Same as EPSY 584 and PSYC 594. See PSYC 594.
+Link: https://courses.illinois.edu/schedule/terms/SOC/584/
+
+SOC 586 — Adv Social Statistics I
+----------------------------------
+Credit: 4 Hours.
+Description: Examines social science applications of generalized linear models.
+Prerequisite: SOC 485 or equivalent.
+Link: https://courses.illinois.edu/schedule/terms/SOC/586/
+
+SOC 588 — Covar Struct and Factor Models
+-----------------------------------------
+Credit: 4 Hours.
+Description: Same as EPSY 588, PSYC 588, and STAT 588. See PSYC 588.
+Link: https://courses.illinois.edu/schedule/terms/SOC/588/
+
+SOC 590 — Individual Topics in Sociology
+-----------------------------------------
+Credit: 1 to 8 Hours.
+Description: Supervised individual investigation or study of a topic not covered by regular courses.
+Link: https://courses.illinois.edu/schedule/terms/SOC/590/
+
+SOC 596 — Recent Developments in Soc
+-------------------------------------
+Credit: 4 Hours.
+Description: Intensive study of selected topics based on contemporary works.
+Link: https://courses.illinois.edu/schedule/terms/SOC/596/
+
+SOC 597 — Readings in Sociology
+--------------------------------
+Credit: 2 to 12 Hours.
+Description: Individual guidance in intensive readings in preparation for the specialization examination.
+Prerequisite: Graduate standing in Sociology and consent of advisor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/597/
+
+SOC 598 — Thesis Proposal
+--------------------------
+Credit: 2 to 12 Hours.
+Description: Individual guidance in designing a doctoral research project and writing a thesis proposal.
+Prerequisite: Graduate standing in Sociology and consent of advisor.
+Link: https://courses.illinois.edu/schedule/terms/SOC/598/
+
+SOC 599 — Thesis Research
+--------------------------
+Credit: 0 to 16 Hours.
+Description: Approved for S/U grading only. May be repeated.
+Prerequisite: SOC 598.
+Link: https://courses.illinois.edu/schedule/terms/SOC/599/
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+1. Course availability varies by semester. Not all courses are offered every term.
+2. Always check the official UIUC Course Explorer at https://courses.illinois.edu for current offerings.
+3. Prerequisites are strictly enforced.
+4. Some courses may have additional restrictions (e.g., majors only).

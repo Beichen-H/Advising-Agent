@@ -1,0 +1,31 @@
+﻿SOCIOLOGY PROGRAMS OVERVIEW - UIUC DEPARTMENT OF SOCIOLOGY
+===========================================================
+
+1. SOCIOLOGY MAJOR (32 hours)
+   - Required for students who want to major in Sociology
+   - Full degree program with comprehensive requirements
+   - See: sociology_major_requirements.txt for details
+
+2. SOCIOLOGY MINOR (18 hours)
+   - For students who want to complement their major with Sociology
+   - Required courses: SOC 100, SOC 280, SOC 200
+   - Two advanced courses (300/400 level)
+   - Electives to reach 18 hours
+   - See: sociology_minor_requirements.txt for details
+
+3. CRIMINOLOGY, LAW & SOCIETY (CLS) MINOR (18 hours)
+   - For students interested in law, justice, or advocacy careers
+   - Required: SOC 100/163, SOC 275, SOC 479
+   - Three sociology electives
+   - See: cls_minor_requirements.txt for details
+
+4. SOCIOLOGY + CLS COMBINATION (41 hours)
+   - Combines Sociology major with CLS minor
+   - Reduced total hours compared to separate programs
+   - 7 core classes, then electives to reach 41 hours
+   - See: sociology_cls_combination.txt for details
+
+IMPORTANT NOTES FOR ALL PROGRAMS:
+- Statistics alternatives (STAT 100, etc.) fulfill requirements but do NOT count as SOC hours
+- Transfer credit for SOC 100 may be only 3 hours
+- Supporting coursework (for major) cannot include SOC or cross-listed courses

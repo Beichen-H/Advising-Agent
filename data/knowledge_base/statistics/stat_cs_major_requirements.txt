@@ -1,0 +1,96 @@
+﻿STATISTICS & COMPUTER SCIENCE MAJOR REQUIREMENTS (UIUC)
+=========================================================
+Jointly sponsored by Departments of Statistics and Computer Science
+Contact: stat-undergrad@illinois.edu | (217) 333-2167 | 156 Computing Applications Building
+
+This major is designed for students who would like a strong foundation in computer science, 
+coupled with significant advanced coursework in statistics. The major prepares students for 
+professional or graduate work in statistics and computer science, and for applications of 
+computing in which knowledge of statistics is particularly important, such as data mining 
+and machine learning.
+
+REQUIRED COURSES:
+-----------------
+Total credit hours in major: 68-72 hours
+LAS general education requirements also apply
+Total needed for graduation: 120 hours
+
+--------------------------------------------------------------------
+MATHEMATICAL FOUNDATION:
+--------------------------------------------------------------------
+- MATH 220/MATH 221: Calculus I
+- MATH 231: Calculus II
+- MATH 241: Calculus III
+- MATH 257: Linear Algebra with Computational Applications OR MATH 415: Applied Linear Algebra
+
+--------------------------------------------------------------------
+COMPUTER SCIENCE FOUNDATION:
+--------------------------------------------------------------------
+- CS 124: Introduction to Computer Science I
+- CS 128: Introduction to Computer Science II
+- CS 173: Discrete Structures
+- CS 222: Software Design Lab
+- CS 225: Data Structures
+
+Choose ONE of the following combinations:
+
+COMBINATION A:
+- CS 233: Computer Architecture
+- CS 241: System Programming
+
+COMBINATION B:
+- CS 240: Introduction to Computer Systems
+- AND two CS courses at the 400 level above CS 403, excluding CS 421 and CS 491.
+  These two courses must be distinct from all other courses used to fulfill program 
+  requirements or options.
+
+ADDITIONAL REQUIRED CS COURSES:
+- CS 357: Numerical Methods I
+- CS 374: Introduction to Algorithms & Models of Computation
+- CS 421: Programming Languages & Compilers
+
+--------------------------------------------------------------------
+STATISTICS AND PROBABILITY FOUNDATION:
+--------------------------------------------------------------------
+- STAT 107: Data Science Discovery OR STAT 200: Statistical Analysis OR STAT 212: Biostatistics
+- STAT 400: Statistics and Probability I
+- STAT 410: Statistics and Probability II
+- STAT 425: Statistical Modeling I
+- STAT 426: Statistical Modeling II
+
+--------------------------------------------------------------------
+STATISTICAL APPLICATION ELECTIVES (Choose ONE):
+--------------------------------------------------------------------
+- STAT 428: Statistical Computing
+- STAT 431: Applied Bayesian Analysis
+- STAT 432: Basics of Statistical Learning
+- STAT 440: Statistical Data Management
+- STAT 448: Advanced Data Analysis
+
+--------------------------------------------------------------------
+COMPUTATIONAL APPLICATION ELECTIVES (Choose ONE):
+--------------------------------------------------------------------
+- CS 410: Text Information Systems
+- CS 411: Database Systems
+- CS 412: Introduction to Data Mining
+- CS 446: Machine Learning
+- CS 481: Advanced Topics in Stochastic Processes & Applications
+- CS 482: Simulation
+
+--------------------------------------------------------------------
+ADDITIONAL INFORMATION:
+--------------------------------------------------------------------
+- Credit hours in major: 68 - 72 credit hours
+- Please see the Course Catalog for detailed course descriptions.
+- Students must also complete the College of LAS general education requirements.
+- Students in the College of LAS need a minimum of 120 total credit hours to graduate.
+- See our sample course plan and major planning worksheet on the department website.
+- For more information about transferring into the Stat&CS major, please see our transfer guide.
+
+CONTACT:
+--------
+Statistics Undergraduate Advising
+Email: stat-undergrad@illinois.edu
+Phone: (217) 333-2167
+Office: 156 Computing Applications Building, 605 E. Springfield Ave., Champaign, IL 61820
+Website: https://stat.illinois.edu

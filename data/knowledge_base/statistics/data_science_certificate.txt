@@ -1,0 +1,88 @@
+﻿CERTIFICATE IN DATA SCIENCE (UIUC)
+===================================
+Department of Statistics, College of Liberal Arts & Sciences
+Contact: stat-ugrad@illinois.edu | (217) 333-2167 | 156 Computing Applications Building
+
+The Certificate in Data Science option allows undergraduate students to receive recognition 
+for completing coursework that provides an understanding of data science including exposure 
+to data structures and data sources, statistical principles, computing and analytics, data 
+management, and data science applications.
+
+Students completing the Certificate will be presented with an official certificate document 
+and may use this credential on a CV, resume, or application for advanced study.
+
+ELIGIBILITY:
+------------
+Students pursuing an X+DS Major or Data Science Minor are NOT eligible for this certificate.
+
+REQUIREMENTS:
+-------------
+Complete at least FOUR courses from the Approved List below. No course substitutions will be approved.
+
+All courses applied to the certificate may also be counted toward the requirements of the 
+student's declared major or minor. Students are not guaranteed a seat in courses, but may 
+enroll when seats remain after restrictions are removed.
+
+APPROVED LIST OF DATA SCIENCE COURSES:
+--------------------------------------
+
+1. Introduction to Data Science:
+   - STAT 107: Data Science Discovery (4 hours) - Equivalent to CS 107 and IS 107
+
+2. Intermediate Data Science:
+   - STAT 207: Data Science Exploration (4 hours)
+
+3. Linear Algebra (Choose ONE course*):
+   - MATH 227: Linear Algebra for Data Science (3 hours)
+   - MATH 257: Linear Algebra with Computational Applications (3 hours)
+
+4. Interdisciplinary Data Science (Choose ONE course*):
+   - STAT 385: Statistics Programming Methods (3 hours)
+   - STAT 420: Methods of Applied Statistics (3 hours)
+   - STAT 428: Statistical Computing (3 hours)
+   - STAT 430: Topics in Applied Statistics (must be DS-focused section) (3 hours)
+   - STAT 432: Basics of Statistical Learning (3 hours)
+   - STAT 437: Unsupervised Learning (3 hours)
+   - STAT 440: Statistical Data Management (3 hours)
+   - STAT 447: Data Science Programming Methods (3 hours)
+   - STAT 448: Advanced Data Analysis (4 hours)
+   - STAT 480: Big Data Analytics (3 hours)
+   - CHBE 413: Data Science for Chemistry and Engineering (3 hours)
+   - CS 225: Data Structures (4 hours)
+   - CS 277: Algorithms and Data Structures for Data Science (4 hours)
+   - CS 307: Modeling and Learning in Data Science (4 hours)
+   - ECON 471: Intro to Applied Econometrics (3 hours)
+   - GGIS 224: Environmental Data Science (3 hours)
+   - GGIS 379: Introduction to Geographic Information Systems (4 hours)
+   - GGIS 407: Foundations of CyberGIS & Geospatial Data Science (4 hours)
+   - IS 467: Ethics and Policy for Data Science (3 hours)
+   - IS 477: Data Management, Curation & Reproducibility (3 hours)
+   - LING 402: Tools & Tech Speech & Lang Proc (3 hours)
+   - LING 406: Introduction to Computational Linguistics (3 hours)
+   - MCB 432: Computing in Molecular Biology (3 hours)
+   - PS 230: Intro to Pol Research (3 hours)
+   - SOC 380: Social Research Methods (4 hours)
+   - SOC 488: Demographic Analysis (3 hours)
+
+*Note: Students who have completed MATH 415, MATH 416, or ASRM 406 do not have to complete 
+MATH 227 or MATH 257 as a second linear algebra course. However, those students must complete 
+a second Interdisciplinary Data Science elective from Group 4 to satisfy Certificate requirements.
+
+REQUESTING THE CERTIFICATE:
+---------------------------
+The certificate is sent in PDF format after completing all requirements. Submit request form by:
+
+- December 20th (fall semester completion)
+- May 20th (spring semester completion)
+- August 10th (summer semester completion)
+
+Request forms submitted after deadlines will be reviewed at the conclusion of the next applicable 
+semester. Request forms submitted after a student's degree has been certified will not be approved.
+
+CONTACT:
+--------
+Statistics Undergraduate Advising
+Email: stat-ugrad@illinois.edu
+Phone: (217) 333-2167
+Office: 156 Computing Applications Building, 605 E. Springfield Ave., Champaign, IL 61820
+Advising Page: https://stat.illinois.edu/academics/undergraduate-academics/undergraduate-advising

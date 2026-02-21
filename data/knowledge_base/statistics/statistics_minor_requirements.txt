@@ -1,0 +1,89 @@
+﻿STATISTICS MINOR REQUIREMENTS (UIUC)
+=====================================
+Department of Statistics, College of Liberal Arts & Sciences
+Contact: stat-ugrad@illinois.edu | (217) 333-2167 | 156 Computing Applications Building
+
+The Statistics minor is designed to provide students with an understanding of the concepts of 
+statistical inference and a familiarity with the methods of applied statistical analysis. 
+A minor in statistics will assist students with their major field of study and prepare them 
+for graduate studies where data analysis plays an important role.
+
+ELIGIBILITY:
+------------
+All University of Illinois undergraduate students are eligible to earn the Minor in Statistics, 
+EXCEPT for those enrolled in the Statistics or Statistics & Computer Science majors.
+
+PREREQUISITES:
+--------------
+To complete all required courses, students will need to take calculus through at least MATH 231.
+
+REGISTRATION NOTES:
+-------------------
+- Pursuing a Stat minor does NOT grant priority registration rights
+- Major restrictions on courses will be removed according to the course restriction page
+- Check Course Explorer for restriction details
+
+COURSE REQUIREMENTS:
+--------------------
+
+1. Statistical Concepts (Select ONE):
+   - STAT 100: Statistics
+   - STAT 107: Data Science Discovery
+   - ACE 261: Applied Statistical Methods
+   - CPSC 241: Intro to Applied Statistics
+   - ECON 202: Economic Statistics I
+   - EPSY 280: Elements of Statistics
+   - PSYC 235: Intro to Statistics
+   - SOC 280: Intro to Social Statistics
+
+2. Data Analysis (Select ONE):
+   - STAT 200: Statistical Analysis
+   - STAT 207: Data Science Exploration
+   - STAT 212: Biostatistics
+   - ECON 203: Economic Statistics II
+   - CS 361 (can be substituted for applicable students)
+
+3. Linear Algebra (Select ONE):
+   - MATH 225: Introductory Matrix Theory
+   - MATH 257: Linear Algebra with Computational Applications
+   - MATH 415: Applied Linear Algebra
+   - MATH 416 (or ASRM 406) can be substituted for applicable students
+
+4. Mathematical Statistics (Select ONE):
+   - STAT 400: Statistics & Probability I
+   - ASRM 401/STAT 408: Actuarial Statistics I
+   - MATH 461: Probability Theory
+
+5. Advanced Statistical Methods (Select TWO):
+   - STAT 385: Statistics Programming Methods
+   - STAT 410: Statistics and Probability II (if STAT 400 is completed)
+   - ASRM 402/STAT 409: Actuarial Statistics II (if ASRM 401/STAT 408 or MATH 461 is completed)
+   - STAT 420: Methods of Applied Statistics
+   - STAT 425: Statistical Modeling I
+   - STAT 424: Design of Experiments
+   - STAT 426: Statistical Modeling II (if STAT 425 is completed)
+   - STAT 428: Statistical Computing
+   - STAT 429: Time Series Analysis
+   - STAT 430: Topics in Applied Statistics (may be repeated if topics differ)
+   - STAT 431: Applied Bayesian Analysis
+   - STAT 432: Basics of Statistical Learning
+   - STAT 433: Stochastic Processes
+   - STAT 434: Survival Analysis
+   - STAT 437: Unsupervised Learning
+   - STAT 440: Statistical Data Management
+   - STAT 443: Professional Statistics
+   - STAT 447: Data Science Programming Methods
+   - STAT 448: Advanced Data Analysis
+   - STAT 480: Big Data Analytics
+   - ECON 471: Intro to Applied Econometrics
+
+Note: Courses with statistical focus at 300- or 400-level offered by other departments may be 
+accepted pending review of syllabus. Contact stat-ugrad@illinois.edu with questions.
+
+CONTACT:
+--------
+Statistics Undergraduate Advising
+Email: stat-ugrad@illinois.edu
+Phone: (217) 333-2167
+Office: 156 Computing Applications Building, 605 E. Springfield Ave., Champaign, IL 61820
+Advising Page: https://stat.illinois.edu/academics/undergraduate-academics/undergraduate-advising

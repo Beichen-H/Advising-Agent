@@ -1,0 +1,42 @@
+﻿# API keys and environment variables
+.env
+*.env
+config.py.local
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+myenv/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+
+# Project specific
+logs/
+*.log
+*.zip
+Las_advising_agent.zip
+
+# 如果你不想上传 data 文件夹（里面的 handbook 文件），取消下面的注释
+# data/

@@ -1,0 +1,86 @@
+﻿DATA SCIENCE MINOR REQUIREMENTS (UIUC)
+=======================================
+Interdisciplinary collaboration administered by the Department of Statistics
+Contact: stat-ugrad@illinois.edu | (217) 333-2167 | 156 Computing Applications Building
+
+The Data Science Minor is designed to provide students with an understanding of data science, 
+including statistical analysis and inference, computation, and business intelligence. It will 
+assist students with their major field of study to apply tools of quantitative analysis and 
+data fluency in that field.
+
+ELIGIBILITY:
+------------
+All University of Illinois undergraduate students are eligible to earn the Minor in Data Science, 
+EXCEPT for those enrolled in a BS degree program for an X+DS major.
+
+MAJOR AND MINOR OVERLAP:
+------------------------
+- Requires at least SIX hours of advanced (300 or 400 level) course credit distinct from 
+  credit earned for any major or another minor
+- You must have at least TWO upper-level courses that count ONLY towards the minor
+
+PREREQUISITES:
+--------------
+- Linear Algebra (one of MATH 225, MATH 227, MATH 257, MATH 415, MATH 416, ASRM 406) is required 
+  before taking CS 307
+- Calculus I (one of MATH 220, MATH 221, MATH 234) is recommended before CS 307
+- Check Course Explorer for all prerequisite requirements
+
+REGISTRATION NOTES:
+-------------------
+- Pursuing a Data Science Minor does NOT grant priority registration rights
+- Check Course Explorer for restriction details and release timelines
+
+MINOR REQUIREMENTS (Minimum 21 credit hours, excluding prerequisites):
+----------------------------------------------------------------------
+
+1. Core DS Courses (12 hours):
+   - STAT/CS/IS 107: Data Science Discovery (4 hours)
+   - STAT 207: Data Science Exploration (4 hours)
+   - CS 307: Modeling and Learning in Data Science (4 hours)
+     Note: Requires Linear Algebra prerequisite
+
+2. Domain Specific Data Science (Choose TWO courses):
+   - ATMS 207: Weather and Climate Data Science (3 hours)
+   - CS 225: Data Structures (4 hours)
+   - CS 277: Algorithms and Data Structures for Data Science (4 hours)
+     *Students may use credit from CS 225 or CS 277, but not both*
+   - CS 416: Data Visualization (3 hours)
+   - CS 441: Applied Machine Learning (3 hours)
+   - GGIS 407: Foundations of CyberGIS & Geospatial Data Science (4 hours)
+   - IS 357: Introduction to Data Storytelling (3 hours)
+   - IS 417: Data Science in the Humanities (3 hours)
+   - IS 445: Data Visualization (3 hours)
+   - LING 406: Introduction to Computational Linguistics (3 hours)
+   - STAT 432: Basics of Statistical Learning (3 hours)
+   - STAT 440: Statistical Data Management (3 hours)
+   - STAT 447: Data Science Programming Methods (3 hours)
+   - STAT 480: Big Data Analytics (3 hours)
+
+3. Data Ethics (Choose ONE):
+   - IS 467: Ethics and Policy for Data Science (3 hours)
+   - IS 477: Data Management, Curation & Reproducibility (3 hours)
+
+FREQUENTLY ASKED QUESTIONS:
+---------------------------
+Q: Can I substitute a different course?
+A: No substitutions are accepted in the DS Minor at this time.
+
+Q: Can courses count toward both my major and the minor?
+A: Yes, as long as you have TWO advanced courses that are distinct to the minor.
+
+Q: I'm a Statistics major - can I use STAT 4XX electives in both?
+A: Yes. For Statistics majors, the distinct hours requirement is met with CS 307 and the Ethics requirement.
+
+Q: Are these courses interchangeable as prerequisites?
+A: No. Check Course Explorer for specific prerequisite requirements.
+
+Q: Can I take a course without satisfying prerequisites?
+A: No. Some courses enforce prerequisites and will prevent registration.
+
+CONTACT:
+--------
+Statistics Undergraduate Advising
+Email: stat-ugrad@illinois.edu
+Phone: (217) 333-2167
+Office: 156 Computing Applications Building, 605 E. Springfield Ave., Champaign, IL 61820

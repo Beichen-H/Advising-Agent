@@ -1,0 +1,72 @@
+﻿STATISTICS MAJOR REQUIREMENTS (UIUC)
+=====================================
+Department of Statistics, College of Liberal Arts & Sciences
+Contact: stat-undergrad@illinois.edu | (217) 333-2167 | 156 Computing Applications Building
+
+The Statistics major is designed to provide students with an understanding of the concepts of 
+statistical inference and a familiarity with the methods of applied statistical analysis. 
+A major in statistics will prepare students for a career in business, industry, or government, 
+and for further graduate study in statistics or in a related area.
+
+REQUIRED COURSES:
+-----------------
+Total credit hours in major: 42-45 hours
+LAS general education requirements also apply
+Total needed for graduation: 120 hours
+
+--------------------------------------------------------------------
+CALCULUS SEQUENCE:
+--------------------------------------------------------------------
+- MATH 220/MATH 221: Calculus I
+- MATH 231: Calculus II
+- MATH 241: Calculus III
+
+--------------------------------------------------------------------
+MATHEMATICAL STATISTICS SEQUENCE:
+--------------------------------------------------------------------
+- STAT 107: Data Science Discovery OR STAT 200: Statistical Analysis OR STAT 212: Biostatistics
+- STAT 400: Statistics and Probability I
+- STAT 410: Statistics and Probability II
+
+--------------------------------------------------------------------
+STATISTICAL MODELING SEQUENCE:
+--------------------------------------------------------------------
+- MATH 257: Linear Algebra with Computational Applications OR MATH 415: Applied Linear Algebra
+- STAT 425: Statistical Modeling I
+- STAT 426: Statistical Modeling II
+
+--------------------------------------------------------------------
+ADVANCED ELECTIVES IN STATISTICS (Choose FOUR):
+--------------------------------------------------------------------
+- STAT 385: Statistical Programming Methods
+- STAT 424: Design of Experiments
+- STAT 427: Statistical Consulting
+- STAT 428: Statistical Computing
+- STAT 429: Time Series Analysis
+- STAT 430: Topics in Applied Statistics
+- STAT 431: Applied Bayesian Analysis
+- STAT 432: Basics of Statistical Learning
+- STAT 433: Stochastic Processes
+- STAT 434: Survival Analysis
+- STAT 437: Unsupervised Learning
+- STAT 440: Statistical Data Management
+- STAT 443: Professional Statistics
+- STAT 447: Data Science Programming Methods
+- STAT 448: Advanced Data Analysis
+- STAT 480: Big Data Analytics
+- MATH 444: Elementary Real Analysis OR MATH 447: Real Variables
+
+--------------------------------------------------------------------
+ADDITIONAL INFORMATION:
+--------------------------------------------------------------------
+- Please see the Course Catalog for detailed course descriptions.
+- Students must also complete the College of LAS general education requirements.
+- Students in the College of LAS need a minimum of 120 total credit hours to graduate.
+- See our sample course plan and major planning worksheet on the department website.
+
+CONTACT:
+--------
+Statistics Undergraduate Advising
+Email: stat-undergrad@illinois.edu
+Phone: (217) 333-2167
+Office: 156 Computing Applications Building, 605 E. Springfield Ave., Champaign, IL 61820
