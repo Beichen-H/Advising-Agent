@@ -16,6 +16,7 @@ env/
 ENV/
 myenv/
 .venv/
+.venv*
 
 # IDE settings
 .vscode/
