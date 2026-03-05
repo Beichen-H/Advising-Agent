@@ -2,7 +2,7 @@
 
 class Config:
     # OpenAI API Configuration
-    OPENAI_API_KEY = "input_api_key"  
+    OPENAI_API_KEY = ""  
     OPENAI_MODEL = "gpt-3.5-turbo"
     
     # System Prompt

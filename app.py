@@ -1,5 +1,6 @@
 ﻿import streamlit as st
 from llm_client_openai import OpenAIClient
+from rag_client import RAGClient 
 from config import Config
 
 # Page configuration
@@ -12,7 +13,7 @@ st.set_page_config(
 # Initialize OpenAI client
 @st.cache_resource
 def init_client():
-    return OpenAIClient()
+    return RAGClient()
 
 def main():
     st.title("🎓 LAS Academic Advising Assistant")

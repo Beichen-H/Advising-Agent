@@ -38,5 +38,5 @@ logs/
 *.zip
 Las_advising_agent.zip
 
-# 如果你不想上传 data 文件夹（里面的 handbook 文件），取消下面的注释
-# data/
+
+data/

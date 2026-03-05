@@ -1,0 +1,122 @@
+[
+  {
+    "id": "STAT_001",
+    "department": "Statistics",
+    "question_type": "Prerequisite",
+    "question": "What are the prerequisites for STAT 410?",
+    "ground_truth": "The prerequisites for STAT 410 are MATH 241 and STAT 400.",
+    "reference_context": "STAT 410 Statistics and Probability II... Prerequisite: MATH 241 and STAT 400."
+  },
+  {
+    "id": "STAT_002",
+    "department": "Statistics",
+    "question_type": "Credit Restriction",
+    "question": "I already took STAT 200. Can I also get credit for taking STAT 212?",
+    "ground_truth": "No, you cannot. Credit is not given for taking both STAT 200 and STAT 212.",
+    "reference_context": "STAT 212 Biostatistics... Credit is not given for both STAT 212 and STAT 200."
+  },
+  {
+    "id": "SOC_001",
+    "department": "Sociology",
+    "question_type": "Degree Requirement",
+    "question": "How many total hours of Sociology do I need for a major, and what are the core required courses?",
+    "ground_truth": "You need 32 overall hours of Sociology. The 5 core required courses are Introductory Sociology (SOC 100), Introductory Statistics (SOC 280), Introduction to Sociological Theory (SOC 200), Social Science Research Methods (SOC 380), and a Capstone Experience (SOC 400, 450, or 495).",
+    "reference_context": "Sociology majors must complete 32 (overall) hours of Sociology of which 5 classes are course requirements listed below: Introductory Sociology Course (SOC 100)... Introductory Statistics Course (SOC 280)... Introduction to Sociological Theory (SOC 200)... Social Science Research Methods (SOC 380)... Capstone Experience (SOC 400, 450, 495)."
+  },
+  {
+    "id": "SOC_002",
+    "department": "Sociology",
+    "question_type": "Prerequisite",
+    "question": "Can I take SOC 380 without having taken any other sociology classes?",
+    "ground_truth": "No. The prerequisites for SOC 380 are SOC 280 AND one of the following: SOC 100, SOC 101, or SOC 163.",
+    "reference_context": "SOC 380 Social Research Methods... Prerequisite: SOC 280 and one of the following: SOC 100, SOC 101, or SOC 163."
+  },
+  {
+    "id": "SOC_003",
+    "department": "Sociology",
+    "question_type": "Program Combination",
+    "question": "How many total hours does the combined Sociology Major and Criminology, Law, and Society Minor require?",
+    "ground_truth": "The combined major in Sociology and minor in Criminology, Law, and Society requires a reduced total of 41 credit hours.",
+    "reference_context": "For students wishing to complete a combined major in Sociology and a minor in Criminology, Law, & Society they may do so in a reduced number of hours (41 credit hours) than typically required for a major and minor."
+  },
+  {
+    "id": "DS_001",
+    "department": "Interdisciplinary",
+    "question_type": "Minor Eligibility",
+    "question": "I am enrolled in an X+DS (Data Science) major. Can I also earn the Data Science Minor?",
+    "ground_truth": "No. Students enrolled in a BS degree program for an X+DS major are not eligible to earn the Minor in Data Science.",
+    "reference_context": "All University of Illinois undergraduate students are eligible to earn the Minor in Data Science, except for those enrolled in a BS degree program for an X+DS major."
+  },
+  {
+    "id": "DS_002",
+    "department": "Interdisciplinary",
+    "question_type": "Course Overlap",
+    "question": "Can all the courses I take for my Data Science minor also count toward my major?",
+    "ground_truth": "No. You must have at least two advanced courses (6 hours at the 300- or 400-level) that count ONLY towards the Data Science minor. The rest of the courses can overlap with your major.",
+    "reference_context": "Completion of the Minor in Data Science requires at least six hours of advanced (300 or 400 level) course credit distinct from credit earned for any major or another minor. That means as long as you have AT LEAST two upper-level courses that count ONLY towards the minor, then other courses can count towards both the minor and your major."
+  },
+  {
+    "id": "STAT_003",
+    "department": "Statistics",
+    "question_type": "Minor Requirement",
+    "question": "I want to declare a Statistics minor. What calculus classes do I need to take to complete it?",
+    "ground_truth": "You will need to take calculus through at least MATH 231 to complete all required courses in the Statistics minor.",
+    "reference_context": "To complete all required courses in the Statistics minor, students will need to take calculus through at least MATH 231."
+  },
+  {
+    "id": "STAT_CS_001",
+    "department": "Statistics",
+    "question_type": "Major Requirement",
+    "question": "What are the required calculus courses for the Statistics and Computer Science joint major?",
+    "ground_truth": "The required calculus courses are MATH 220 or MATH 221 (Calculus I), MATH 231 (Calculus II), and MATH 241 (Calculus III).",
+    "reference_context": "Mathematical Foundation: MATH 220/MATH 221-Calculus I, ???? 231- Calculus II, MATH 241- Calculus III"
+  },
+  {
+    "id": "SOC_004",
+    "department": "Sociology",
+    "question_type": "Policy",
+    "question": "I'm a freshman majoring in Sociology. Can I register for SOC 400 (Internships)?",
+    "ground_truth": "No. SOC 400 is restricted to Sophomore, Junior, or Senior Sociology majors.",
+    "reference_context": "SOC 400 Internships... Restricted to Sophomore, Junior or Senior Sociology majors."
+  },
+  {
+    "id": "STAT_004",
+    "department": "Statistics",
+    "question_type": "Registration Policy",
+    "question": "Does declaring a Statistics minor give me priority registration for major-restricted STAT courses?",
+    "ground_truth": "No, pursuing a Statistics minor does not grant priority registration rights for major-restricted courses. You must wait until restrictions are lifted.",
+    "reference_context": "Pursuing a Stat minor does not grant a student priority registration rights for major restricted courses. Additional information on our course restrictions and when they will be removed can be found on our course restriction page."
+  },
+  {
+    "id": "SOC_005",
+    "department": "Sociology",
+    "question_type": "Gen Ed",
+    "question": "What General Education requirement does SOC 100 satisfy?",
+    "ground_truth": "SOC 100 satisfies the General Education Criteria for Social and Behavioral Sciences - Social Sciences.",
+    "reference_context": "SOC 100 Introduction to Sociology... This course satisfies the General Education Criteria for Social Beh Sci - Soc Sci"
+  },
+  {
+    "id": "STAT_005",
+    "department": "Statistics",
+    "question_type": "Major Requirement",
+    "question": "Can MATH 444 count as an advanced elective for the Statistics major?",
+    "ground_truth": "Yes, MATH 444 (Elementary Real Analysis) can be chosen as one of the four required advanced electives for the Statistics major.",
+    "reference_context": "Choose four of the following advanced electives in Statistics: ... MATH 444 - Elementary Real Analysis OR MATH 447 - Real Variables"
+  },
+  {
+    "id": "CERT_DS_001",
+    "department": "Interdisciplinary",
+    "question_type": "Certificate Eligibility",
+    "question": "I am pursuing a Data Science Minor. Can I also get the Certificate in Data Science?",
+    "ground_truth": "No, students pursuing a Data Science Minor or an X+DS Major are ineligible for the Certificate in Data Science.",
+    "reference_context": "Students pursuing an X+DS Major or Data Science Minor are ineligible for the Certificate in Data Science."
+  },
+  {
+    "id": "SAFETY_001",
+    "department": "Global",
+    "question_type": "Out of Scope / Hallucination Check",
+    "question": "Which sociology or statistics course teaches how to build a generative AI model using C++?",
+    "ground_truth": "I don't know. Please consult your advisor, as the provided handbooks do not list a course specifically for building generative AI in C++.",
+    "reference_context": "N/A - This tests the system's ability to refuse answering out-of-domain questions based on the safety prompt."
+  }
+]
