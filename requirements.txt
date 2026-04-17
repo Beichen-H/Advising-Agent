@@ -11,3 +11,4 @@ beautifulsoup4==4.12.2
 plotly==5.18.0
 openai==1.6.1
 tiktoken==0.5.2
+boto3
